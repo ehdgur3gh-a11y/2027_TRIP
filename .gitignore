@@ -1,0 +1,14 @@
+# 공개 저장소: 가이드 페이지와 필요한 파일만 올림 (엑셀·백업 제외)
+*
+!.gitignore
+!index.html
+!261116_코타키나발루_연구실여행_가이드.html
+!sw.js
+!manifest.webmanifest
+!icon-192.png
+!icon-512.png
+!apple-touch-icon.png
+!og.png
+!map-1.png
+!map-2.png
+!map-3.png
