@@ -1,5 +1,5 @@
 // 오프라인 저장: 한 번 열어 둔 페이지·지도·글꼴을 인터넷 없이도 보이게
-const C = 'kk-trip-v7';
+const C = 'kk-trip-v8';
 const PRE = ['./', './index.html', './map-1.png', './map-2.png', './map-3.png', './icon-192.png',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css', 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
   'https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css'];
